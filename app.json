@@ -10,7 +10,7 @@
     ],
     "stack": "container",
     "repository": "https://github.com/OCTA-corporate/Keycloak-to-Heroku",
-	"logo": "https://octaimage.blob.core.windows.net/octaimage4ctnr/keycloak_logo.png",
+	"logo": "https://octaimage.blob.core.windows.net/octaimage4ctnr/Octa - Logo - Icone 02 - Fundo Branco.png",
     "success_url": "/",
     "env": {
         "KEYCLOAK_USER": {

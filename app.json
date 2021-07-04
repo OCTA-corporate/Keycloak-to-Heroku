@@ -9,8 +9,8 @@
         "heroku"
     ],
     "stack": "container",
-    "repository": "https://github.com/sannonaragao/keycloak-heroku",
-	"logo": "https://www.keycloak.org/resources/images/keycloak_logo_480x108.png",
+    "repository": "https://github.com/OCTA-corporate/Keycloak-to-Heroku",
+	"logo": "https://octaimage.blob.core.windows.net/octaimage4ctnr/keycloak_logo.png",
     "success_url": "/",
     "env": {
         "KEYCLOAK_USER": {

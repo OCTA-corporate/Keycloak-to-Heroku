@@ -1,11 +1,11 @@
 # Deploy Keycloak to Heroku
 
-This repository deploys the [Keycloak](https://www.keycloak.org) Identity and Access Manangement Solution 
-to Heroku.  It is based of Keycloak's official docker image with some slight modifications to use the
-Heroku variable for `PORT` and `DATABASE_URL` properly.
+This repository deploys the [Keycloak](https://www.keycloak.org) Solução de Gerenciamento de identidade e acesso 
+ao Heroku.  Ele é baseado na imagem oficial do Keycloak com somente algumas modificações para usar as
+variáveis Heroku para `PORT` e `DATABASE_URL` apropriadamente.
 
-The deployment will be made with a free dyno (it won't run very well in smaller dynos
-due to Java's memory hunger) with a free Postgres database attached.
+O deploy é feito usando dyno grátis (ele funciona muito bem em pequenos dynos 
+para comedores de memória Java) com um banco de dados Postgres gratis attachado.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
